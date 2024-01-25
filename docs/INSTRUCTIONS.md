@@ -1,5 +1,5 @@
 
-# The Web is for Everyone - Control Flow
+# The Web is for Everyone - Data Flow
 
 Schets de Control Flow van een interactieve toepassing. 
 
