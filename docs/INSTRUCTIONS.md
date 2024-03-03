@@ -11,7 +11,7 @@ In het college _S08W1-02-Data-Flow-Diagram_ wordt behandeld wat een Data Flow Di
 
 Deze deeltaak hoort bij de leertaak:
 - [
-the-web-is-for-everyone-interactive-functionality](https://github.com/fdnd-task/the-web-is-for-everyone-interactive-functionality) 
+server-side-rendering-sever-side-website](https://github.com/fdnd-task/server-side-rendering-server-side-website) 
 
 
 
