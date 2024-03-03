@@ -22,9 +22,7 @@ Leren hoe je een Data Flow Diagram  moet tekenen van je Node-code om data te lad
 
 
 ## Werkwijze
-Met een Control Flow beschrijf je de logica / structuur van je code. De Control Flow (of _Flow of Control_) toont de volgorde van methodes en functies die worden uitgevoerd in de code. Zo krijg je een duidelijk overzicht van hoe de code werkt en in welke volgorde. 
-
-Met een Data Flow Diagram  beschrijf je de ... https://en.wikipedia.org/wiki/Data-flow_diagram
+Met een Data Flow Diagram beschrijf je hoe data wordt geladen en gebruikt in je applicatie of website. De Data Flow toont de volgorde van methodes en functies die worden uitgevoerd in de code en welke data wordt gebruikt. Zo krijg je een duidelijk overzicht van hoe de code werkt en in welke volgorde. https://en.wikipedia.org/wiki/Data-flow_diagram
 
 Voor deze opdracht schets je de Node-code van de routes, welke data wordt geladen en doorgegeven, zodat het duidelijk is hoe de server-side code werkt. Bedenk zelf een gestructureerde manier van het tekenen van alle elementen, lijnen en annotaties.
 
