@@ -54,12 +54,6 @@ Daarna ga je de Node-code gestructureerd uitwerken:
 
 ## Criteria
 
-Focus sprint 9 - De focus van deze sprint ligt op Progressive Enhancement, toegankelijkheid en testresultaten gebruiken voor het verbeteren van een ontwerp.
-
-Deze leertaak hoort bij het gedragscriterium:
-
-P: Je schetst om gedachten en processen te verkennen en abstracte begrippen over te brengen
-
 Deze opdracht is done als:
 
 - [ ] Er is een Data Flow Diagram  uitgewerkt met logica / structuur van je Node-code
