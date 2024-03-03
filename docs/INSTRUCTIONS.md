@@ -7,7 +7,7 @@ Schets de Data Flow van een interactieve toepassing.
 
 Deze deeltaak hoort bij sprint 8 "server Side Rendering". Dit is een deeltaak die je individueel uitvoert.
 
-In het college _S08W1-02-Data-Flow-Diagram_ wordt behandeld wat een Data Flow Diagram is en hoe je dit kan schetsen
+In het college _S08W1-02-Serverside-en-Templating_ wordt behandeld wat een Data Flow Diagram is en hoe je dit kan schetsen
 
 Deze deeltaak hoort bij de leertaak:
 - [
