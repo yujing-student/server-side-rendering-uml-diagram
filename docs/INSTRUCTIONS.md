@@ -1,13 +1,13 @@
 
-# The Web is for Everyone - Data Flow Diagram
+# Data Flow Diagram
 
 Schets de Data Flow van een interactieve toepassing. 
 
 ## Context
 
-Deze deeltaak hoort bij sprint 9 "The Web is for Everyone". Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 8 "server Side Rendering". Dit is een deeltaak die je individueel uitvoert.
 
-In het college _S08W3-01-Data-Flow-Diagram_ wordt behandeld wat een Data Flow Diagram is en hoe je dit kan schetsen
+In het college _S08W1-02-Data-Flow-Diagram_ wordt behandeld wat een Data Flow Diagram is en hoe je dit kan schetsen
 
 Deze deeltaak hoort bij de leertaak:
 - [
@@ -31,12 +31,12 @@ Voor deze opdracht schets je de Node-code van de routes, welke data wordt gelade
 Deze opdracht gaat over de [ontwerp](#ontwerpen) fase van de DLC.
 
 ### Ontwerpen
-Eerst bepaal je welke pagina's je hebt gemaakt en welke url's daarbij horen. 
+Eerst bepaal je welke pagina's je gaat maken en welke url's daarbij horen. 
 Daarna ga je de Node-code gestructureerd uitwerken:
 
-1. Teken een _sitemap_ van de verschillende pagina's die je hebt gemaakt (overzicht-, detail- en/of formulierpagina)
-2. Schrijf per pagina de _url_ en de _parameters_ die worden meegestuurd
-3. Werk alle _routes_ uit in een Control Flow diagram
+1. Teken een _sitemap_ van de verschillende pagina's voor de opdracht voor de opdrachtgever (overzicht-, detail-, formulierpagina, etc ...)
+2. Schrijf per pagina de _url_ en de _parameters_ die moet worden meegestuurd
+3. Werk alle _routes_ uit in een Data Flow diagram
 4. Per _route_ schets je de functies en methodes die worden uitgevoerd en de bijbehorende EJS
 5. Noteer welke url wordt meegestuurd met een _fetch_, en of het een _GET_ of _POST_ is
 6. Schrijf ook op welke _data_ wordt doorgegeven aan een volgende functie of methode
