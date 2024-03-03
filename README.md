@@ -1,4 +1,4 @@
-> Deze deeltaak hoor bij de leertaak van _The Web is for Everyone_. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+> Deze deeltaak hoor bij de leertaak van _Server Side Rendering_. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 
 
