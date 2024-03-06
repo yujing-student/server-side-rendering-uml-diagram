@@ -1,7 +1,7 @@
 
 # UML Diagram
 
-Schets de Data Flow van een interactieve toepassing. 
+Schets een UNL diagram van een interactieve toepassing. 
 
 ## Context
 
