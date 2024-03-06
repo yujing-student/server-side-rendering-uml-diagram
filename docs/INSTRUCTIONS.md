@@ -1,7 +1,7 @@
 
 # UML Diagram
 
-Schets een UNL diagram van een interactieve toepassing. 
+Schets een UML diagram van een interactieve toepassing. 
 
 ## Context
 
@@ -22,7 +22,8 @@ Leren hoe je een UML Diagram kan tekenen van je Node-code om data te laden (GET)
 
 ## Werkwijze
 
-Met een UML Diagram beschrijf je hoe data wordt geladen en gebruikt in je applicatie of website. De Data Flow toont de volgorde van methodes en functies die worden uitgevoerd in de code en welke data wordt gebruikt. Zo krijg je een duidelijk overzicht van hoe de code werkt en in welke volgorde. https://en.wikipedia.org/wiki/Data-flow_diagram
+Een UML diagram is een manier om systemen en software te visualiseren met behulp van Unified Modeling Language (UML). 
+Developers maken UML-diagrammen om inzicht te krijgen in de ontwerpen, codearchitectuur en implementatie van complexe softwaresystemen.
 
 Voor deze opdracht schets je de Node-code van de routes, welke data wordt geladen en doorgegeven, zodat het duidelijk is hoe de server-side code werkt. Bedenk zelf een gestructureerde manier van het tekenen van alle elementen, lijnen en annotaties.
 
