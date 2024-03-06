@@ -1,7 +1,7 @@
 
 # UML Diagram
 
-Schets een UML diagram van een interactieve toepassing. 
+Schets een UML diagram van een server-side gerenderde website. 
 
 ## Context
 
