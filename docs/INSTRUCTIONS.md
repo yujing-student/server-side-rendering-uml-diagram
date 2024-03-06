@@ -59,7 +59,7 @@ Daarna ga je de Node-code gestructureerd uitwerken:
 Deze opdracht is done als:
 
 - [ ] Er is een UML Diagram uitgewerkt met logica / structuur van je Node-code
-- [ ] Het UML Diagram toont pseudo-code die nodig is voor het laden van data, het posten van data en/of renderen van HTML
+- [ ] Het UML Diagram toont pseudo-code die nodig is voor het laden van databen/of het posten van data en renderen van HTML
 - [ ] Het UML Diagram  is gedocumenteerd in de Wiki van de leertaak
 
 
