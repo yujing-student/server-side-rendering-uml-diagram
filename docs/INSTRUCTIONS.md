@@ -10,18 +10,18 @@ Deze deeltaak hoort bij sprint 8 "server Side Rendering". Dit is een deeltaak di
 In het college _S08W1-02-Serverside-en-Templating_ wordt behandeld wat een Data Flow Diagram is en hoe je dit kan schetsen
 
 Deze deeltaak hoort bij de leertaak:
-- [
-server-side-rendering-sever-side-website](https://github.com/fdnd-task/server-side-rendering-server-side-website) 
+- [server-side-rendering-sever-side-website](https://github.com/fdnd-task/server-side-rendering-server-side-website)
 
 
 
 ## Doel van deze opdracht
 
-Leren hoe je een Data Flow Diagram  moet tekenen van je Node-code om data te laden (GET), te posten (POST) en te renderen naar HTML (EJS).
+Leren hoe je een Data Flow Diagram moet tekenen van je Node-code om data te laden (GET), te posten (POST) en te renderen naar HTML (EJS).
 
 
 
 ## Werkwijze
+
 Met een Data Flow Diagram beschrijf je hoe data wordt geladen en gebruikt in je applicatie of website. De Data Flow toont de volgorde van methodes en functies die worden uitgevoerd in de code en welke data wordt gebruikt. Zo krijg je een duidelijk overzicht van hoe de code werkt en in welke volgorde. https://en.wikipedia.org/wiki/Data-flow_diagram
 
 Voor deze opdracht schets je de Node-code van de routes, welke data wordt geladen en doorgegeven, zodat het duidelijk is hoe de server-side code werkt. Bedenk zelf een gestructureerde manier van het tekenen van alle elementen, lijnen en annotaties.
@@ -44,6 +44,7 @@ Daarna ga je de Node-code gestructureerd uitwerken:
 
 - [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1)
 - [Sitemaps & Information Architecture (IA)](https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/)
+- [What is a data flow diagram?](https://miro.com/diagramming/what-is-a-data-flow-diagram/)
 - [Wat is Control Flow](https://en.wikipedia.org/wiki/Control_flow)
 - [Control Flow Diagram](https://en.wikipedia.org/wiki/Control-flow_diagram)
 <!-- - [What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/) -->
